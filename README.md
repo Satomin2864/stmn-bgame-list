@@ -8,7 +8,7 @@
 - [カタン](http://www.gp-inc.jp/catan/)
 - Carnac(カルナック)
 - [サイズ - 大鎌戦役 -](http://www.arclight.co.jp/ag/index.php?page=products&code=LG-0234)
-    - [サイズ - 大鎌戦役 - 拡張 彼方よりの侵攻 完全日本語版](http://www.arclight.co.jp/ag/index.php?page=products&code=LG-0270)
+    - [サイズ - 大鎌戦役 - 拡張 彼方よりの侵攻](http://www.arclight.co.jp/ag/index.php?page=products&code=LG-0270)
     - [サイズ - 大鎌戦役 - 拡張 風に舞う策謀](http://www.arclight.co.jp/ag/index.php?page=products&code=LG-0294)
 - [新幕　桜降るよに決闘を　基本セット](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/index.html)
     - [新幕　桜降るよに決闘を　達人セット]((https://main-bakafire.ssl-lolipop.jp/furuyoni/na/index.html))
