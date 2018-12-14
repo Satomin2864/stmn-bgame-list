@@ -13,6 +13,7 @@
 - [新幕　桜降るよに決闘を　基本セット](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/index.html)
     - [新幕　桜降るよに決闘を　達人セット]((https://main-bakafire.ssl-lolipop.jp/furuyoni/na/index.html))
 - [タンクハンター　第２版](http://www.arclight.co.jp/ag/th/index.php?page=product&id=01)
+- テストプレイなんてしてないよ
 - [ドミニオン　第２版](http://hobbyjapan.games/dominion_2nd/)
 - [Night Clan(ナイトクラン)](https://www.dominagames.com/nightclanrevised)
 - [パンデミック：新たなる試練](https://hobbyjapan.co.jp/pandemic/)
