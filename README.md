@@ -24,3 +24,8 @@
 - [Miraris(ミラリス)](https://www.dominagames.com/miraris)
 - [モノポリー](https://bodoge.hoobby.net/games/monopoly)
 - [Latria(ラトリア)](https://www.dominagames.com/latria)
+
+#次回の候補
+[x-code](https://bodoge.hoobby.net/games/xcode)
+[ケロ](http://hobbyjapan.games/kero/)
+
