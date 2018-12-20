@@ -27,5 +27,5 @@
 
 
 # 次回の候補
-[x-code](https://bodoge.hoobby.net/games/xcode)
-[ケロ](http://hobbyjapan.games/kero/)
+- [x-code](https://bodoge.hoobby.net/games/xcode)
+- [ケロ](http://hobbyjapan.games/kero/)
