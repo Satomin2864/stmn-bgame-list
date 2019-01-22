@@ -1,5 +1,9 @@
 # my-bgame-list
 自分が持っているボードゲーム一覧を確認してもらって、遊べるようにするリポジトリ。
+# 新しく買ったボドゲ一覧
+- [MONSTER MAKER モンスターメーカー](http://www.arclight.co.jp/ag/index.php?page=products&code=SG-0014)
+- [The Last Brave](https://www.delightworks.co.jp/games/boardgame/thelastbrave/)
+
 # 一覧
 各ボードゲームの詳細はリンク先を参照してください。
 - [Argoat(アルゴート)](https://www.dominagames.com/argoat)
