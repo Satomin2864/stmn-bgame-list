@@ -4,7 +4,7 @@
 # 一覧
 各ボードゲームの詳細はリンク先を参照してください。
 - [アズール](http://hobbyjapan.games/azul/)
- - 拡張ジョーカータイル
+    - 拡張ジョーカータイル
 - [Argoat(アルゴート)](https://www.dominagames.com/argoat)
 - [アンドールの伝説](http://www.arclight.co.jp/ag/al/)
 - [エセ芸術家ニューヨークへ行く](https://oinkgms.com/jp/a-fake-artist-goes-to-new-york)
